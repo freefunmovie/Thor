@@ -243,12 +243,12 @@ body{
 }
 
 .adtest{
-	background-color: #d9d9d9;
+	/*background-color: #d9d9d9;*/
 	margin: 25px 0;
 }
 
 .adtestver{
-	background-color: #9d9d9d;
+	/*background-color: #9d9d9d;*/
 	margin: 25px 0;
 	clear: both;
 	position: absolute;
